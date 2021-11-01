@@ -32,7 +32,7 @@ Para ello, he utilizado 5 técnicas diferentes:
 
     b) Usando Regex para aquellas columnas cuyos datos hacían referencia a lo mismo pero habían sido imputados de múltiples formas (Species, Activitiy, Injury).
 
-    c) También he construído algunas funciones contenidas en otro archivo llamado "cleaning_functions" del cual las he exportado que me han servido para armonizar la columa "Year" así como para usar Regex en las tres columnas mencionadas anteriormente. Además, construí otra función llamada "hemisferio" para crear una columna nueva en el df a partir de la columna "Country".
+    c) También he construído algunas funciones contenidas en otro archivo llamado "cleaning_functions" del cual las he exportado que me han servido para armonizar la columna "Year" así como para usar Regex en las tres columnas mencionadas anteriormente. Además, construí otra función llamada "hemisferio" para crear una columna nueva en el df a partir de la columna "Country".
         
         
 B. "Visualización": En este Jupyter Notebook he ido verificando/refutando cada una de mis tres hipótesis a través de diferentes gráficos de la Libería Seaborn: gráficos de barras e histogramas.
