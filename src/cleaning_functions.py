@@ -27,6 +27,20 @@ def hemisferio (x):
             return "Hemisferio norte"
 
 
+def clean_columnFatal(x):
+    """
+    Esta función armoniza los valores únicos de la columna "Fatal (Y/N)", reduciéndolos a 3.
+    Args: cada uno de los valores de dicha columna (string).
+    Return: Y,N,Unkown (string).
+    """
+    if x == 'Y' or x=='y':
+        return "Y"
+
+    elif x == ' N':
+        return "N"
+
+    else:
+        return "Unknown"
 
 
 def funcion_valores_unicos(x):

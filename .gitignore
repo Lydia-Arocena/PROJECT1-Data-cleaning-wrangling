@@ -2,3 +2,8 @@ DATA/attacks.csv
 .ipynb_checkpoints
 Untitled.ipynb
 src/__pycache__/visualizations.cpython-38.pyc
+src/__pycache__/cleaning_functions.cpython-38.pyc
+*/**.ipynb_checkpoints
+*/**__pycache__
+.ipynb_checkpoints
+
