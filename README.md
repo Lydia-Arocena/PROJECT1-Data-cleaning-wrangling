@@ -1,6 +1,6 @@
 # PROYECTO-1-IRONHACK
 
-![Aquí había una foto de un tiburón](https://github.com/Lydia-Arocena/PROYECTO-1-IRONHACK/blob/main/foto_tiburon.jpg)
+![Aquí había una foto de un tiburón](Images/foto_tiburon.jpg)
 
 
 ## 1. OBJETIVO DEL PROYECTO:
